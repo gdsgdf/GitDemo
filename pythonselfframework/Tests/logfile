@@ -1,0 +1,86 @@
+2022-09-08 02:04:56,726 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:04:56,728 :INFO: utilitis.Baseclass:information
+2022-09-08 02:04:56,729 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:04:56,730 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:04:56,731 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:04:56,757 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:04:56,757 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:04:56,759 :INFO: utilitis.Baseclass:information
+2022-09-08 02:04:56,759 :INFO: utilitis.Baseclass:information
+2022-09-08 02:04:56,761 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:04:56,761 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:04:56,763 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:04:56,763 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:04:56,764 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:04:56,764 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:04:58,945 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:04:58,945 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:04:58,945 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:04:58,945 :INFO: utilitis.Baseclass:information
+2022-09-08 02:04:58,945 :INFO: utilitis.Baseclass:information
+2022-09-08 02:04:58,945 :INFO: utilitis.Baseclass:information
+2022-09-08 02:04:58,945 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:04:58,945 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:04:58,945 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:04:58,946 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:04:58,946 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:04:58,946 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:04:58,946 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:04:58,946 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:04:58,946 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:06:56,301 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:06:56,302 :INFO: utilitis.Baseclass:information
+2022-09-08 02:06:56,302 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:06:56,302 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:06:56,303 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:06:56,310 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:06:56,310 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:06:56,311 :INFO: utilitis.Baseclass:information
+2022-09-08 02:06:56,311 :INFO: utilitis.Baseclass:information
+2022-09-08 02:06:56,311 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:06:56,311 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:06:56,311 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:06:56,311 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:06:56,311 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:06:56,311 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:06:56,693 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:06:56,693 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:06:56,693 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:06:56,694 :INFO: utilitis.Baseclass:information
+2022-09-08 02:06:56,694 :INFO: utilitis.Baseclass:information
+2022-09-08 02:06:56,694 :INFO: utilitis.Baseclass:information
+2022-09-08 02:06:56,694 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:06:56,694 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:06:56,694 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:06:56,694 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:06:56,694 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:06:56,694 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:06:56,694 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:06:56,694 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:06:56,694 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:13:56,401 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:13:56,402 :INFO: utilitis.Baseclass:information
+2022-09-08 02:13:56,402 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:13:56,402 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:13:56,403 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-08 02:18:05,023 :DEBUG: utilitis.Baseclass:it is a debug statement
+2022-09-08 02:18:05,025 :INFO: utilitis.Baseclass:information
+2022-09-08 02:18:05,027 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-08 02:18:05,028 :ERROR: utilitis.Baseclass:assertion error
+2022-09-08 02:18:05,028 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-12 08:34:53,259 :INFO: utilitis.Baseclass:information
+2022-09-12 08:34:53,260 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-12 08:34:53,260 :ERROR: utilitis.Baseclass:assertion error
+2022-09-12 08:34:53,261 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-13 02:03:58,321 :INFO: utilitis.Baseclass:information
+2022-09-13 02:03:58,323 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-13 02:03:58,323 :ERROR: utilitis.Baseclass:assertion error
+2022-09-13 02:03:58,323 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-13 02:05:14,388 :INFO: utilitis.Baseclass:information
+2022-09-13 02:05:14,388 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-13 02:05:14,388 :ERROR: utilitis.Baseclass:assertion error
+2022-09-13 02:05:14,388 :CRITICAL: utilitis.Baseclass:it's a critical
+2022-09-13 02:06:09,672 :INFO: utilitis.Baseclass:information
+2022-09-13 02:06:09,673 :WARNING: utilitis.Baseclass:it's a precaution
+2022-09-13 02:06:09,674 :ERROR: utilitis.Baseclass:assertion error
+2022-09-13 02:06:09,675 :CRITICAL: utilitis.Baseclass:it's a critical
